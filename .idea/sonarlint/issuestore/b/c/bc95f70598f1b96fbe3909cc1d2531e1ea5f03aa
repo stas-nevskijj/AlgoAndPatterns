@@ -1,0 +1,9 @@
+
+S
+java:S1854"=Remove this useless assignment to local variable "singleton".(®³ªž
+D
+java:S1481".Remove this unused "singleton" local variable.(®³ªž
+O
+java:S1118":Add a private constructor to hide the implicit public one.(É³©
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(»´Ä˜8Ó²¶õç0
