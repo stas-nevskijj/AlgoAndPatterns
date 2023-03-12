@@ -107,3 +107,7 @@ Esrc/main/java/org/example/patterns/adapter/AdapterJavaToDatabase.java,d\c\dcbc
 .src/main/java/org/example/algos/QuickSort.java,d\a\dafa28efdf4b2218f89fdc6d880aeaf4ea725d3c
 g
 7src/main/java/org/example/algos/binary_search/Main.java,e\9\e9a7e459103966635628e674c100c4b80bf6d00a
+f
+6src/main/java/org/example/leetcode/two_sum_1/Main.java,7\7\77e190bc57f7b4c398e515d363c99931767e30f0
+h
+8src/main/java/org/example/algos/selection_sort/Main.java,2\d\2d0c7b6896926279df8b9867584ae1703360db5d
